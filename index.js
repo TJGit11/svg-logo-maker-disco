@@ -33,7 +33,7 @@ const userResponses = await inquirer.prompt([
     type: "input",
     name: "textFill",
     message:
-      "What color do you want your text to be? (you may also use a hexadecimal value",
+      "What color do you want your text to be? (you may also use a hexadecimal value)",
   },
 ]);
 
